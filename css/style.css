@@ -1,0 +1,46 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: cursive;
+}
+html{
+  background-color:skyblue;
+}
+.one{
+  padding-right: 700px;
+  width: 200px;
+
+}
+.two{
+  width: 200px;
+  padding-top: 100px;
+}
+h1{
+  padding-top: 100px;  }
+.second{
+  width: 700px;
+  padding-top: 50px;
+  padding-left: 150px;
+}
+.Chille{
+  height: 250px;
+}
+.cloud2{
+  padding-right: 400px;
+}
+.cloud3{
+  padding-left: 700px;
+}
+.A{
+padding-top: 100px;
+
+}
+.PC{padding-top: 50px;
+  height: 200px;
+}
+.jj{
+  height:200px;
+}
+.Avatar{
+  height: 250px;
+}
